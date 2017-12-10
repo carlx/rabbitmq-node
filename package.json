@@ -1,0 +1,9 @@
+{
+  "name": "rabbitmq-node",
+  "version": "1.0.0",
+  "description": "rabbitmq lessons",
+  "main": "index.js",
+  "repository": "git@github.com:carlx/rabbitmq-node.git",
+  "author": "Karol Wawrzecki <kwawrzecki@gmail.com>",
+  "license": "MIT"
+}
